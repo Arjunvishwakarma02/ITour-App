@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ITour</string>
+
+    <string name="nameApp">ITour</string>
+    <string name="subtitleNameApp"> Tourist Place</string>
+    <string name="versionApp">v2.6</string>
+    <string name="copyright">Copyright © 2024 ArjunVishwakarma</string>
+    <string name="titleLogin">Welcome to Mumbai</string>
+    <string name="channel_name">Travel App v2.6 (BETA)</string>
+    <string name="channel_desc">Application Travel India</string>
+</resources>
